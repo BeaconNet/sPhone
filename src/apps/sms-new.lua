@@ -1,3 +1,5 @@
+--You could tell the people that the source is here:
+--https://www.dropbox.com/s/y3hykm7ci6e27o2/sertexID.zip?dl=0
 local tArgs = {...}
 local loading = {"|","/","-","\\","|","/","-","\\"}
 local server = "http://sertex.x10.bz/"
